@@ -1,0 +1,125 @@
+body{
+    /* text-align: left; */
+    margin-left: 8%;
+}
+.ps{
+    display: inline-block;
+    color:gray;
+    margin-right: 30px;
+}
+.ps:hover{
+    color: black;
+    
+}
+.div1{
+    margin-top: 10px;
+    height: 60px;
+}
+/* .inndiv1{
+    display: inline-block;
+    color: #0a66c2;
+    font-style: sans-serif; }*/
+
+.signin1{
+    display:inline;
+    color: #0a66c2;
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    border-color: #0a66c2;
+}
+.signin1:hover{
+    background-color: skyblue;
+}
+.name{
+    color:#0a66c2;
+    font-family: sans-serif;
+    display: inline;
+    margin-right: 40%;
+}
+.name2{
+    background-color:#0a66c2;
+    color: white;
+    border-radius: 15%;
+}
+.inndiv2{
+    float: left;
+}
+.inputdiv{
+}
+.weltext{
+    color: brown;
+    font-size: 55px;
+    font-style: monospace;
+    margin-bottom: 18px;
+}
+.inputs{
+    width:360px; padding: 12px 20px; margin:8px 0;
+}
+button{
+    width:400px;
+    padding: 15px;
+    background-color: #0a66c2;
+    color: white;
+    border-radius: 30px;
+    font-size: 17px;
+}
+button:hover{
+    background-color: blue;
+}
+.line
+{
+    margin-top: 30px;
+    margin-bottom: 3px;
+    margin-left: 15px;
+    margin-right: 15px;
+    display: inline-block;
+}
+.or
+{
+    display:inline-block;
+    font-weight: lighter;
+    margin-top: 15px;
+    color:grey;
+}
+.google
+{
+    width:400px;
+    padding: 15px;
+    background-color:white;
+    color: grey;
+    border-radius: 30px;
+    font-size: 17px;
+}
+.google:hover
+{
+    background-color:azure;
+}
+.image
+{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+
+}
+.link
+{
+    width:400px;
+    padding: 15px;
+    background-color:white;
+    color: black;
+    border-radius: 30px;
+    font-size: 17px;
+    margin-top: 15px;
+    font-weight: 100%;
+}
+.link:hover
+{
+    background-color: azure;
+}
+.forgot:hover
+{
+    color: #0a66c2;
+}
