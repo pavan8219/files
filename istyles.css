@@ -1,0 +1,90 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+.maindiv
+{
+    display: inline-block; 
+    background-color: aliceblue;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-bottom: 15px;
+    position: absolute;
+    right: 25%;
+    top:15%;
+}
+.indiv{
+    margin-top: 10px;
+}
+h1{
+    font-size: 35px;
+    margin-top: 1px;
+    font-family: cursive;
+}
+.input{
+    display: inline;
+    padding: 8px;
+    width: 220px;
+    margin-bottom: 10px;
+    background-color:lightgray;
+}
+.signin{
+    width: 245px;
+    padding: 7px;
+    background-color: #529ce6;
+    border-radius: 10px;
+}
+.signin:hover{
+    background-color: blue;
+}
+.or{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+.fb{
+    text-decoration: none;
+    font-size: 17px;
+}
+.fp{
+    color: #346faa;
+}
+p{
+    font-size: 15px;
+}
+.outerdiv{
+    background-color: aliceblue;
+    display: inline;
+    
+}
+.up{
+    color: #346faa;
+    text-decoration: none;
+}
+
+.gpay{
+    height:35px;
+    width:115px;
+    position: relative;
+    right:60px;
+}
+.micro{
+    height:35px;
+    width:115px;
+    position:relative;
+    left: 60px;
+    bottom:38px;
+}
+.image{
+    height:500px;
+    position:relative;
+    right:70px;
+    top:90px;
+}
+.image2{
+    height:500px;
+    position:relative;
+    right:241px;
+    top:90px;
+}
